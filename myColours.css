@@ -1,0 +1,15 @@
+@define-color button-bg  #1e1e2e;
+@define-color button-bg2  RGBA(30, 30, 46, 0.85);
+@define-color button-bg-selected  #404069;
+@define-color button-bg-urgent  #CC4B4B;
+
+@define-color button-border  rgba(65, 56, 128, 1);
+@define-color button-border2  #413880;
+@define-color button-border-selected rgba(177, 172, 247, 1);
+@define-color button-border-urgent  #702A2A;
+
+@define-color button-text #B1ACF7;
+
+@define-color background-terminal #1f003d;
+@define-color background-terminal-dark #190031;
+

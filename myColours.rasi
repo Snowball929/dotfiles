@@ -1,0 +1,11 @@
+* {
+    button-bg:                   	#1e1e2eff;
+    button-bg2:                   	#1e1e2eE6;
+    button-bg3:                    	#1e1e2eE6;
+    button-bg-selected:           	#404069ff;
+    button-border:               	#413880ff;
+    button-border-selected:         #B1ACF7;
+    button-text:		            #B1ACF7ff;
+    active-idk:		               		#00ff00FF; //unsure what these two do
+    urgent-idk:                         #E06C75FF;
+}
