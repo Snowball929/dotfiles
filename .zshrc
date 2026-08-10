@@ -68,6 +68,11 @@ alias waybarm='nohup waybar -c ~/.config/waybar/configMango.jsonc -s ~/.config/w
 alias mclients="mmsg get all-clients | jq '.'"
 alias open='xdg-open'
 
+dotpush() {
+  dot add -u
+  dot commit -m "update $(date +%Y-%m-%d-%H-%M)"
+  dot push
+}
 bindkey "^[[F" end-of-line
 bindkey "^[[H" beginning-of-line
 bindkey "^[[3~" delete-char
