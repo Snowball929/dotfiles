@@ -1,0 +1,13 @@
+@import                          "/home/snow/myColours.rasi"
+* {
+	
+    background:     @button-bg2; //main background
+    background-alt: @button-bg2; //unselected button background
+    background-alt2: @button-bg3; //unselected button background
+    foreground:     @button-text; //text colour
+    selected:       @button-bg-selected; //selected button background
+    border:         @button-border; //outline of box 
+    border-selected:@button-border-selected;
+    active:         @active-idk;
+    urgent:         @urgent-idk;
+}

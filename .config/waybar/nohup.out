@@ -1,0 +1,17 @@
+[2026-04-03 18:00:51.615] [info] Using configuration file /home/snow/.config/waybar/config.jsonc
+[2026-04-03 18:00:51.617] [info] Discovered appearance 'dark'
+[2026-04-03 18:00:51.645] [info] Using CSS file /home/snow/.config/waybar/style.css
+[2026-04-03 18:00:51.654] [info] Hyprland IPC starting
+[2026-04-03 18:00:51.655] [info] Loading persistent workspaces from Waybar config
+[2026-04-03 18:00:51.655] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-04-03 18:00:51.678] [info] Loading persistent workspaces from Waybar config
+[2026-04-03 18:00:51.678] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-04-03 18:00:51.807] [error] Host: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: No such object path '/StatusNotifierWatcher'
+[2026-04-03 18:00:51.809] [error] Host: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: No such object path '/StatusNotifierWatcher'
+[2026-04-03 18:00:51.998] [warning] Requested height: 42 is less than the minimum height: 49 required by the modules
+[2026-04-03 18:00:51.998] [info] Bar configured (width: 2560, height: 49) for output: DP-1
+[2026-04-03 18:00:51.998] [warning] Requested height: 42 is less than the minimum height: 47 required by the modules
+[2026-04-03 18:00:51.998] [info] Bar configured (width: 1920, height: 47) for output: HDMI-A-1
+Fontconfig warning: using without calling FcInit()
+Fontconfig warning: using without calling FcInit()
+Gdk-Message: 18:01:06.879: Error reading events from display: Broken pipe

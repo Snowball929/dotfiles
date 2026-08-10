@@ -1,0 +1,26 @@
+Starting SwayNotificationCenter version swaync 0.12.6
+** Message: 19:07:20.589: configModel.vala:513: Loading Config: "/home/snow/.config/swaync/config.json"
+
+(process:7492): Adwaita-WARNING **: 19:07:20.620: Using GtkSettings:gtk-application-prefer-dark-theme with libadwaita is unsupported. Please use AdwStyleManager:color-scheme instead.
+** Message: 19:07:20.734: functions.vala:104: Loading CSS: "/etc/xdg/swaync/style.css"
+
+(swaync:7492): Gtk-WARNING **: 19:07:20.734: Theme parser warning: style.css:123:36-37: Empty declaration
+
+(swaync:7492): Gtk-WARNING **: 19:07:20.734: Theme parser warning: style.css:333:3-334:1: Expected ';' at end of block
+** Message: 19:07:20.735: functions.vala:117: Loading CSS: "/etc/xdg/swaync/style.css"
+
+(swaync:7492): Gtk-WARNING **: 19:07:20.735: Theme parser warning: style.css:123:36-37: Empty declaration
+
+(swaync:7492): Gtk-WARNING **: 19:07:20.735: Theme parser warning: style.css:333:3-334:1: Expected ';' at end of block
+** Message: 19:07:20.739: factory.vala:55: Loading widget: inhibitors
+** Message: 19:07:20.739: factory.vala:55: Loading widget: title
+
+** (swaync:7492): CRITICAL **: 19:07:20.743: sway_notification_center_widgets_mpris_mpris_player_update_album_art: assertion 'metadata != NULL' failed
+
+** (swaync:7492): CRITICAL **: 19:07:20.743: sway_notification_center_widgets_mpris_mpris_player_update_title: assertion 'metadata != NULL' failed
+
+** (swaync:7492): CRITICAL **: 19:07:20.743: sway_notification_center_widgets_mpris_mpris_player_update_sub_title: assertion 'metadata != NULL' failed
+
+** (swaync:7492): CRITICAL **: 19:07:20.743: sway_notification_center_widgets_mpris_mpris_player_update_buttons: assertion 'metadata != NULL' failed
+** Message: 19:07:20.743: factory.vala:55: Loading widget: mpris
+** Message: 19:07:20.743: factory.vala:17: Loading widget: widget-notifications

@@ -1,0 +1,4823 @@
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 4
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+Window 562624ea1ca0 -> Lovely 0.9.0:
+	mapped: 1
+	hidden: 0
+	at: 1920,0
+	size: 2560,1440
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Lovely 0.9.0
+	initialClass: steam_app_2379780
+	initialTitle: S:\common\Balatro\Balatro.exe
+	pid: 111852
+	xwayland: 1
+	pinned: 0
+	fullscreen: 2
+	fullscreenClient: 2
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003ad
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 4
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+Window 562624ea1ca0 -> Lovely 0.9.0:
+	mapped: 1
+	hidden: 0
+	at: 1920,0
+	size: 2560,1440
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Lovely 0.9.0
+	initialClass: steam_app_2379780
+	initialTitle: S:\common\Balatro\Balatro.exe
+	pid: 111852
+	xwayland: 1
+	pinned: 0
+	fullscreen: 2
+	fullscreenClient: 2
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003ad
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 4
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+Window 562624ea1ca0 -> Lovely 0.9.0:
+	mapped: 1
+	hidden: 0
+	at: 1920,0
+	size: 2560,1440
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Lovely 0.9.0
+	initialClass: steam_app_2379780
+	initialTitle: S:\common\Balatro\Balatro.exe
+	pid: 111852
+	xwayland: 1
+	pinned: 0
+	fullscreen: 2
+	fullscreenClient: 2
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003ad
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 4
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+Window 562624ea1ca0 -> Lovely 0.9.0:
+	mapped: 1
+	hidden: 0
+	at: 1920,0
+	size: 2560,1440
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Lovely 0.9.0
+	initialClass: steam_app_2379780
+	initialTitle: S:\common\Balatro\Balatro.exe
+	pid: 111852
+	xwayland: 1
+	pinned: 0
+	fullscreen: 2
+	fullscreenClient: 2
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003ad
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 4
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+Window 562624ea1ca0 -> Lovely 0.9.0:
+	mapped: 1
+	hidden: 0
+	at: 1920,0
+	size: 2560,1440
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Lovely 0.9.0
+	initialClass: steam_app_2379780
+	initialTitle: S:\common\Balatro\Balatro.exe
+	pid: 111852
+	xwayland: 1
+	pinned: 0
+	fullscreen: 2
+	fullscreenClient: 2
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003ad
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 4
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+Window 562624ea1ca0 -> Lovely 0.9.0:
+	mapped: 1
+	hidden: 0
+	at: 1920,0
+	size: 2560,1440
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Lovely 0.9.0
+	initialClass: steam_app_2379780
+	initialTitle: S:\common\Balatro\Balatro.exe
+	pid: 111852
+	xwayland: 1
+	pinned: 0
+	fullscreen: 2
+	fullscreenClient: 2
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003ad
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 4
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+Window 562624ea1ca0 -> Lovely 0.9.0:
+	mapped: 1
+	hidden: 0
+	at: 1920,0
+	size: 2560,1440
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Lovely 0.9.0
+	initialClass: steam_app_2379780
+	initialTitle: S:\common\Balatro\Balatro.exe
+	pid: 111852
+	xwayland: 1
+	pinned: 0
+	fullscreen: 2
+	fullscreenClient: 2
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003ad
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 4
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+Window 562624ea1ca0 -> Lovely 0.9.0:
+	mapped: 1
+	hidden: 0
+	at: 1920,0
+	size: 2560,1440
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Lovely 0.9.0
+	initialClass: steam_app_2379780
+	initialTitle: S:\common\Balatro\Balatro.exe
+	pid: 111852
+	xwayland: 1
+	pinned: 0
+	fullscreen: 2
+	fullscreenClient: 2
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003ad
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 4
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+Window 562624ea1ca0 -> Lovely 0.9.0:
+	mapped: 1
+	hidden: 0
+	at: 1920,0
+	size: 2560,1440
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Lovely 0.9.0
+	initialClass: steam_app_2379780
+	initialTitle: S:\common\Balatro\Balatro.exe
+	pid: 111852
+	xwayland: 1
+	pinned: 0
+	fullscreen: 2
+	fullscreenClient: 2
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003ad
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 4
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+Window 562624ea1ca0 -> Lovely 0.9.0:
+	mapped: 1
+	hidden: 0
+	at: 1920,0
+	size: 2560,1440
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Lovely 0.9.0
+	initialClass: steam_app_2379780
+	initialTitle: S:\common\Balatro\Balatro.exe
+	pid: 111852
+	xwayland: 1
+	pinned: 0
+	fullscreen: 2
+	fullscreenClient: 2
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003ad
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 4
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+Window 562624ea1ca0 -> Lovely 0.9.0:
+	mapped: 1
+	hidden: 0
+	at: 1920,0
+	size: 2560,1440
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Lovely 0.9.0
+	initialClass: steam_app_2379780
+	initialTitle: S:\common\Balatro\Balatro.exe
+	pid: 111852
+	xwayland: 1
+	pinned: 0
+	fullscreen: 2
+	fullscreenClient: 2
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003ad
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 5
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 4
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+Window 562624ea1ca0 -> Lovely 0.9.0:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 1276,1385
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Lovely 0.9.0
+	initialClass: steam_app_2379780
+	initialTitle: S:\common\Balatro\Balatro.exe
+	pid: 111852
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003ad
+
+Window 562624eb4760 -> Balatro:
+	mapped: 1
+	hidden: 0
+	at: 1920,0
+	size: 2560,1440
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Balatro
+	initialClass: steam_app_2379780
+	initialTitle: Balatro
+	pid: 111840
+	xwayland: 1
+	pinned: 0
+	fullscreen: 2
+	fullscreenClient: 2
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003b7
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 5
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 4
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+Window 562624ea1ca0 -> Lovely 0.9.0:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 1276,1385
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Lovely 0.9.0
+	initialClass: steam_app_2379780
+	initialTitle: S:\common\Balatro\Balatro.exe
+	pid: 111852
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003ad
+
+Window 562624eb4760 -> Balatro:
+	mapped: 1
+	hidden: 0
+	at: 1920,0
+	size: 2560,1440
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Balatro
+	initialClass: steam_app_2379780
+	initialTitle: Balatro
+	pid: 111840
+	xwayland: 1
+	pinned: 0
+	fullscreen: 2
+	fullscreenClient: 2
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003b7
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 5
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 4
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+Window 562624ea1ca0 -> Lovely 0.9.0:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 1276,1385
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Lovely 0.9.0
+	initialClass: steam_app_2379780
+	initialTitle: S:\common\Balatro\Balatro.exe
+	pid: 111852
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003ad
+
+Window 562624eb4760 -> Balatro:
+	mapped: 1
+	hidden: 0
+	at: 1920,0
+	size: 2560,1440
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Balatro
+	initialClass: steam_app_2379780
+	initialTitle: Balatro
+	pid: 111840
+	xwayland: 1
+	pinned: 0
+	fullscreen: 2
+	fullscreenClient: 2
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003b7
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 5
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 4
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+Window 562624ea1ca0 -> Lovely 0.9.0:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 1276,1385
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Lovely 0.9.0
+	initialClass: steam_app_2379780
+	initialTitle: S:\common\Balatro\Balatro.exe
+	pid: 111852
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003ad
+
+Window 562624eb4760 -> Balatro:
+	mapped: 1
+	hidden: 0
+	at: 1920,0
+	size: 2560,1440
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Balatro
+	initialClass: steam_app_2379780
+	initialTitle: Balatro
+	pid: 111840
+	xwayland: 1
+	pinned: 0
+	fullscreen: 2
+	fullscreenClient: 2
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003b7
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 5
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 4
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+Window 562624ea1ca0 -> Lovely 0.9.0:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 1276,1385
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Lovely 0.9.0
+	initialClass: steam_app_2379780
+	initialTitle: S:\common\Balatro\Balatro.exe
+	pid: 111852
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003ad
+
+Window 562624eb4760 -> Balatro:
+	mapped: 1
+	hidden: 0
+	at: 1920,0
+	size: 2560,1440
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Balatro
+	initialClass: steam_app_2379780
+	initialTitle: Balatro
+	pid: 111840
+	xwayland: 1
+	pinned: 0
+	fullscreen: 2
+	fullscreenClient: 2
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003b7
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 5
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 4
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+Window 562624ea1ca0 -> Lovely 0.9.0:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 1276,1385
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Lovely 0.9.0
+	initialClass: steam_app_2379780
+	initialTitle: S:\common\Balatro\Balatro.exe
+	pid: 111852
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003ad
+
+Window 562624eb4760 -> Balatro:
+	mapped: 1
+	hidden: 0
+	at: 1920,0
+	size: 2560,1440
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Balatro
+	initialClass: steam_app_2379780
+	initialTitle: Balatro
+	pid: 111840
+	xwayland: 1
+	pinned: 0
+	fullscreen: 2
+	fullscreenClient: 2
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003b7
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 5
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 4
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+Window 562624ea1ca0 -> Lovely 0.9.0:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 1276,1385
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Lovely 0.9.0
+	initialClass: steam_app_2379780
+	initialTitle: S:\common\Balatro\Balatro.exe
+	pid: 111852
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003ad
+
+Window 562624eb4760 -> Balatro:
+	mapped: 1
+	hidden: 0
+	at: 1920,0
+	size: 2560,1440
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Balatro
+	initialClass: steam_app_2379780
+	initialTitle: Balatro
+	pid: 111840
+	xwayland: 1
+	pinned: 0
+	fullscreen: 2
+	fullscreenClient: 2
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003b7
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 5
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 4
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+Window 562624ea1ca0 -> Lovely 0.9.0:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 1276,1385
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Lovely 0.9.0
+	initialClass: steam_app_2379780
+	initialTitle: S:\common\Balatro\Balatro.exe
+	pid: 111852
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003ad
+
+Window 562624eb4760 -> Balatro:
+	mapped: 1
+	hidden: 0
+	at: 1920,0
+	size: 2560,1440
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Balatro
+	initialClass: steam_app_2379780
+	initialTitle: Balatro
+	pid: 111840
+	xwayland: 1
+	pinned: 0
+	fullscreen: 2
+	fullscreenClient: 2
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003b7
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 5
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 4
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+Window 562624ea1ca0 -> Lovely 0.9.0:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 1276,1385
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Lovely 0.9.0
+	initialClass: steam_app_2379780
+	initialTitle: S:\common\Balatro\Balatro.exe
+	pid: 111852
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003ad
+
+Window 562624eb4760 -> Balatro:
+	mapped: 1
+	hidden: 0
+	at: 1920,0
+	size: 2560,1440
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Balatro
+	initialClass: steam_app_2379780
+	initialTitle: Balatro
+	pid: 111840
+	xwayland: 1
+	pinned: 0
+	fullscreen: 2
+	fullscreenClient: 2
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003b7
+
+
+Window 562624dee1f0 -> (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox:
+	mapped: 1
+	hidden: 0
+	at: 961,566
+	size: 956,511
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: firefox
+	title: (4) Balatro has a MASSIVE balance problem - YouTube — Mozilla Firefox
+	initialClass: firefox
+	initialTitle: Mozilla Firefox
+	pid: 5794
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 5
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180000ae
+
+Window 562624c7cf40 -> Discord | #general | THE GAMER SOCIETY:
+	mapped: 1
+	hidden: 0
+	at: 3,52
+	size: 956,1025
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: vesktop
+	title: Discord | #general | THE GAMER SOCIETY
+	initialClass: vesktop
+	initialTitle: vesktop
+	pid: 2070
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 4
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000003
+
+Window 562624d5d270 -> Steam:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 2554,1385
+	workspace: 1 (1)
+	floating: 0
+	monitor: 0
+	class: steam
+	title: Steam
+	initialClass: steam
+	initialTitle: Steam
+	pid: 4208
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 3
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 18000018
+
+Window 562623f3cb30 -> ./btopTest.sh > output.txt:
+	mapped: 1
+	hidden: 0
+	at: 961,52
+	size: 956,512
+	workspace: 3 (3)
+	floating: 0
+	monitor: 1
+	class: kitty
+	title: ./btopTest.sh > output.txt
+	initialClass: kitty
+	initialTitle: kitty
+	pid: 107985
+	xwayland: 0
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 1
+	grouped: 0
+	tags: 
+	swallowing: 0
+	focusHistoryID: 0
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180002f9
+
+Window 562624ea1ca0 -> Lovely 0.9.0:
+	mapped: 1
+	hidden: 0
+	at: 1923,52
+	size: 1276,1385
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Lovely 0.9.0
+	initialClass: steam_app_2379780
+	initialTitle: S:\common\Balatro\Balatro.exe
+	pid: 111852
+	xwayland: 1
+	pinned: 0
+	fullscreen: 0
+	fullscreenClient: 0
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 2
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003ad
+
+Window 562624eb4760 -> Balatro:
+	mapped: 1
+	hidden: 0
+	at: 1920,0
+	size: 2560,1440
+	workspace: 2 (2)
+	floating: 0
+	monitor: 0
+	class: steam_app_2379780
+	title: Balatro
+	initialClass: steam_app_2379780
+	initialTitle: Balatro
+	pid: 111840
+	xwayland: 1
+	pinned: 0
+	fullscreen: 2
+	fullscreenClient: 2
+	overFullscreen: 0
+	grouped: 0
+	tags: games*
+	swallowing: 0
+	focusHistoryID: 1
+	inhibitingIdle: 0
+	xdgTag: 
+	xdgDescription: 
+	contentType: none
+	stableID: 180003b7
+
+

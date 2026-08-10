@@ -1,0 +1,310 @@
+@import "/home/snow/myColours.css";
+* {
+  border: none;
+  border-radius: 0px;
+  min-height: 0;
+}
+
+.bar1 {
+  border-radius: 0px;
+  font-family: 'FiraMono Nerd Font Propo';;
+  font-size: 20px;
+/*   font-weight: bold; */
+}
+.bar2 {
+  border-radius: 0px;
+  font-family: 'FiraMono Nerd Font Propo';;
+  font-size: 18px;
+}
+
+window#waybar {
+  /*for when using no box */
+  background-color: rgba(0,0,0,0.4);
+
+  /* for when using the box*/
+  background-color: rgba(0,0,0,0);
+
+  transition-property: background-color;
+  transition-duration: 0.5s;
+  border-bottom: 0px solid rgba(127, 0, 218, 0.2); /*1px thick before*/
+}
+
+window#waybar.hidden {
+  opacity: 0.5;
+}
+
+
+
+
+#waybar.bar1 > box {
+/*   background-color: rgba(0,0,0,0.6); */
+  border-radius: 0px;
+/*   border-bottom: 4px solid @button-border; */
+  padding: 0px;
+}
+#waybar.bar2 > box {
+/*   background-color: rgba(0,0,0,0.55); */
+  border-radius: 0px;
+/*   border-bottom: 4px solid @button-border; */
+  padding: 0px;
+}
+
+/*
+ * #####################################################################################
+ * #####################################################################################
+ * #####################################################################################
+ * #####################################################################################
+ */
+
+
+#workspaces {
+  background-color: @button-bg;
+  border: 2px solid @button-border;
+  margin: 6px;
+  margin-left: 15px; /*magin left only for when workspaces are on the left side of bar*/
+  padding: 0px 0px;
+  color: @button-bg;
+}
+
+/*separated because different font size leads to different heights which leads to different widths for perfect circle*/
+.bar1 #workspaces button {
+  /*all: initial;*/
+  font-family: 'FiraMono Nerd Font Mono';
+  font-size: 20px;
+/*   font-weight: bold; */
+  min-width: 38px;
+  padding: 0px 0px;
+  margin: 0px 0px;
+  border: 2px solid @button-bg;
+  background-color: @button-bg;
+  color: @button-text;
+  transition: all 0.2s cubic-bezier(0.55, -0.68, 0.48, 1.682);
+}
+.bar2 #workspaces button {
+  /*all: initial;*/
+  font-family: 'FiraMono Nerd Font Mono';
+  font-size: 18px;
+/*   font-weight: bold; */
+  min-width: 35px;
+  padding: 0px 0px;
+  margin: 0px 0px;
+  border: 2px solid @button-bg;
+  background-color: @button-bg;
+  color: @button-text;
+  transition: all 0.2s cubic-bezier(0.55, -0.68, 0.48, 1.682);
+}
+#workspaces button.active {
+  background-color: #7872bb;
+  color: #282350;
+  border: 2px solid #7872bb;
+  transition: all 0.2s cubic-bezier(0.55, -0.68, 0.48, 1.682);
+}
+
+#workspaces button:hover {
+  box-shadow: inherit;
+  text-shadow: inherit;
+  margin: 0px 0px 0px 0px;
+  background-color: @button-border-selected ;
+  color: #282350;
+  border: 2px solid @button-border-selected;
+  transition: all 0.2s cubic-bezier(0.55, -0.68, 0.48, 1.682);
+}
+
+#workspaces button.urgent {
+  background-color: @button-bg-urgent;
+  border: 2px solid @button-border-urgent;
+  color: #FFFFFF;
+}
+
+
+/*
+ * #####################################################################################
+ * #####################################################################################
+ * #####################################################################################
+ * #####################################################################################
+ */
+
+
+
+
+#bluetooth,
+#cpu,
+#memory,
+#custom-power,
+#custom-wallpaper,
+#custom-layout,
+#custom-opacity,
+#custom-buffer,
+#battery,
+#backlight,
+#pulseaudio,
+#network,
+#tray {
+  margin: 6px 3px;
+  padding: 6px 12px;
+  background-color: @button-bg;
+  color: @button-bg;
+  border: 2px solid @button-border;
+}
+
+
+#tray menu {
+  border-radius: 5px;
+}
+#tray menu menuitem {
+  border-radius: 5px;
+}
+
+
+.bar1 #clock { /*for when centered only, otherwise uncomment line above*/
+/*  border-radius: 0px;*/
+margin: 6px 3px;
+padding: 6px 12px;
+color: @button-text;
+text-shadow: 1px 1px 1px @button-border;
+border: 2px solid transparent;
+border-radius: 20px;
+font-size: 20px;
+}
+.bar2 #clock {
+margin: 6px 3px;
+padding: 0px 12px;
+color: @button-text;
+text-shadow: 1px 1px 1px @button-border;
+border: 2px solid transparent;
+border-radius: 20px;
+font-size: 18px;
+}
+
+/*
+ #clock {
+ font-size: 22px;
+ margin: 0px;
+ margin-left: 90px;
+ min-width: 220px;
+ background-color: transparent;
+ color: @button-text;
+ text-shadow: 1px 1px 1px @button-border;
+ border: 0px solid @button-border;
+ padding-left: 10px;
+ padding-right: 10px;
+ }*/
+#memory,
+#cpu {
+  min-width: 50px;
+  margin: 6px 3px;
+  padding: 6px 12px;
+  background-color: @button-bg;
+  color: @button-text;
+  border: 2px solid @button-border;
+  font-family: 'FiraMono Nerd Font Propo';
+}
+
+
+#pulseaudio {
+  background-color: @button-bg;
+  color: @button-text;
+  border: 2px solid @button-border;
+  min-width: 80px;
+}
+
+#network {
+  font-size: 16px;
+  background-color: @button-bg;
+  color: @button-text;
+  border: 2px solid @button-border;
+  min-width: 200px;
+  padding-right: 12px;
+  padding-left: 12px;
+  font-family: 'FiraMono Nerd Font Propo';
+}
+
+#mpris {
+  background-color: @button-bg;
+  color: @button-text;
+  border: 2px solid @button-border;
+  min-width: 10px;
+  padding: 6px 18px;
+  margin: 6px 3px;
+  font-family: 'FiraMono Nerd Font Propo';
+}
+
+#custom-power {
+  font-size: 18px;
+  background-color: @button-bg;
+  color: @button-text;
+  border: 2px solid @button-border;
+  margin-right: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.bar1 #custom-power {
+  font-size: 19px;
+}
+
+#custom-wallpaper,
+#custom-layout,
+#custom-opacity {
+  background-color: @button-bg;
+  color: @button-text;
+  border: 2px solid @button-border;
+}
+#custom-buffer {
+  background-color: transparent;
+  color: transparent;
+  border: 0px solid @button-border;
+}
+#clock {
+  font-family: "FiraMono Nerd Font Mono";
+  margin-left: 3px;
+  min-width: 220px;
+  /*background-color: @button-bg; */
+  color: @button-text;
+  /*border: 2px solid @button-border; */
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#custom-hardware {
+  background-color: @button-bg;
+  color: @button-text;
+  border: 2px solid @button-border;
+}
+
+
+/*
+ * #####################################################################################
+ * #####################################################################################
+ * #####################################################################################
+ * #####################################################################################
+ */
+
+
+#cpu:hover,
+#mpris:hover,
+#memory:hover,
+#custom-power:hover,
+#custom-wallpaper:hover,
+#custom-layout:hover,
+#custom-opacity:hover,
+#pulseaudio:hover,
+#clock:hover,
+#network:hover{
+  background-color: @button-bg-selected;
+  border: 2px solid @button-border-selected;
+  transition: all 0.3s cubic-bezier(0.55, -0.68, 0.48, 1.682);
+}
+
+
+tooltip {
+  border: 2px solid @button-border;
+  border-radius: 5px;
+  background-color: @button-bg;
+  font-family: 'FiraMono Nerd Font Propo';
+}
+
+tooltip label {
+  padding: 0px;
+  background-color: @button-bg;
+  font-family: 'FiraMono Nerd Font Propo';
+}
+

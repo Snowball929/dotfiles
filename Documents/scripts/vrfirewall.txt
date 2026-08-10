@@ -1,0 +1,4 @@
+sudo firewall-cmd --zone=public --add-port=5353/udp
+sudo firewall-cmd --zone=public --add-port=9757/tcp
+sudo firewall-cmd --zone=public --add-port=9757/udp
+sudo firewall-cmd --reload 

@@ -1,0 +1,15 @@
+[2026-01-28 12:21:26.450] [info] Using configuration file /home/snow/.config/waybar/config.jsonc
+[2026-01-28 12:21:26.452] [info] Discovered appearance 'dark'
+[2026-01-28 12:21:26.479] [info] Using CSS file /home/snow/.config/waybar/style.css
+[2026-01-28 12:21:26.488] [info] Hyprland IPC starting
+[2026-01-28 12:21:26.489] [info] Loading persistent workspaces from Waybar config
+[2026-01-28 12:21:26.489] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-28 12:21:26.508] [info] Loading persistent workspaces from Waybar config
+[2026-01-28 12:21:26.508] [info] Loading persistent workspaces from Hyprland workspace rules
+[2026-01-28 12:21:26.826] [warning] Requested height: 42 is less than the minimum height: 49 required by the modules
+[2026-01-28 12:21:26.826] [info] Bar configured (width: 2560, height: 49) for output: DP-1
+[2026-01-28 12:21:26.826] [error] Item '': No icon name or pixmap given.
+[2026-01-28 12:21:26.913] [error] Item '': No icon name or pixmap given.
+[2026-01-28 12:21:26.948] [warning] Requested height: 42 is less than the minimum height: 47 required by the modules
+[2026-01-28 12:21:26.948] [info] Bar configured (width: 1920, height: 47) for output: HDMI-A-1
+WARNING: 'HDMI-A-1': No digits found.
