@@ -1,0 +1,18 @@
+# GIMP user context
+
+(tool "gimp-paintbrush-tool")
+(paint-info "gimp-paintbrush")
+(foreground
+    (color "R'G'B'A u8" 4 "\306\250\317\377" 0))
+(background
+    (color "R'G'B'A u8" 4 "\377\377\377\377" 0))
+(brush "1. Pixel")
+(dynamics "Pressure Size")
+(mybrush "Standard")
+(pattern "Marble #1")
+(gradient "Skyline")
+(palette "Standard")
+(font "Sans-serif")
+(tool-preset "Core Pointer")
+
+# end of user context

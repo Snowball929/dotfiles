@@ -1,0 +1,52 @@
+# settings
+
+(GimpGegl-gegl-color-exchange-config "2026-07-24 02:42:06"
+    (time 1784857326)
+    (from-color
+        (color "R'G'B'A u8" 4 "\276I\377\377" 0))
+    (to-color
+        (color "R'G'B'A float" 16 "\0\0\0\0\0\0\0\0\0\0\0\0\0\0\200\77" 0))
+    (red-threshold 0.151)
+    (green-threshold 1)
+    (blue-threshold 0.28999999999999998))
+(GimpGegl-gegl-color-exchange-config "2026-07-24 02:40:16"
+    (time 1784857216)
+    (gimp-mode normal)
+    (from-color
+        (color "R'G'B'A u8" 4 "\377\0\52\377" 0))
+    (to-color
+        (color "R'G'B'A float" 16 "\0\0\0\0\0\0\0\0\0\0\0\0\0\0\200\77" 0))
+    (red-threshold 0.29499999999999998)
+    (green-threshold 1)
+    (blue-threshold 1))
+(GimpGegl-gegl-color-exchange-config "2026-07-24 02:34:44"
+    (time 1784856884)
+    (gimp-mode normal)
+    (from-color
+        (color "R'G'B' u8" 3 "\54\55\76" 0))
+    (to-color
+        (color "R'G'B' double" 24 "\36\36\36\36\36\36\276\77\36\36\36\36\36\36\276\77\27\27\27\27\27\27\307\77" 0))
+    (red-threshold 0)
+    (green-threshold 0)
+    (blue-threshold 0))
+(GimpGegl-gegl-color-exchange-config "2026-07-24 02:33:27"
+    (time 1784856807)
+    (gimp-mode normal)
+    (from-color
+        (color "R'G'B' double" 24 "\23\23\23\23\23\23\303\77\24\24\24\24\24\24\304\77\234\233\233\233\233\233\313\77" 0))
+    (to-color
+        (color "R'G'B' double" 24 "\36\36\36\36\36\36\276\77\36\36\36\36\36\36\276\77\27\27\27\27\27\27\307\77" 0))
+    (red-threshold 1)
+    (green-threshold 1)
+    (blue-threshold 1))
+(GimpGegl-gegl-color-exchange-config "2026-07-24 02:31:37"
+    (time 1784856697)
+    (from-color
+        (color "R'G'B'A float" 16 "\0\0\200\77\0\0\200\77\0\0\200\77\0\0\200\77" 0))
+    (to-color
+        (color "R'G'B'A float" 16 "\0\0\0\0\0\0\0\0\0\0\0\0\0\0\200\77" 0))
+    (red-threshold 0)
+    (green-threshold 0)
+    (blue-threshold 0))
+
+# end of settings

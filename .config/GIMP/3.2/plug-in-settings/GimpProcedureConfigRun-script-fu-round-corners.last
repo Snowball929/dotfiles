@@ -1,0 +1,11 @@
+# settings
+
+(adjustment 20)
+(toggle no)
+(adjustment-2 8)
+(adjustment-3 8)
+(adjustment-4 15)
+(toggle-2 yes)
+(toggle-3 yes)
+
+# end of settings

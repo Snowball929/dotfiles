@@ -1,0 +1,21 @@
+# GIMP gimp-paintbrush-tool options
+
+(foreground
+    (color "R'G'B'A u8" 4 "\306\250\317\377" 0))
+(background
+    (color "R'G'B'A u8" 4 "\377\377\377\377" 0))
+(brush "1. Pixel")
+(dynamics "Pressure Size")
+(pattern "Marble #1")
+(gradient "Skyline")
+(palette "Standard")
+(brush-size 8)
+(brush-spacing 0.20000000000000001)
+(brush-force 1)
+(dynamics-enabled no)
+(fade-length 97)
+(gradient-blend-color-space cie-lab)
+(smoothing-quality 100)
+(smoothing-factor 1000)
+
+# end of gimp-paintbrush-tool options
