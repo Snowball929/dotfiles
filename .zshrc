@@ -68,6 +68,8 @@ alias waybarm='nohup waybar -c ~/.config/waybar/configMango.jsonc -s ~/.config/w
 alias mclients="mmsg get all-clients | jq '.'"
 alias open='xdg-open'
 
+
+alias dot='git --git-dir=$HOME/projects/.dotfiles --work-tree=$HOME'
 dotpush() {
   dot add -u
   dot commit -m "update $(date +%Y-%m-%d-%H-%M)"
