@@ -103,6 +103,7 @@ window#waybar.hidden {
 #workspaces button:hover {
   box-shadow: inherit;
   text-shadow: inherit;
+  background: none;
   margin: 0px 0px 0px 0px;
   background-color: @button-border-selected ;
   color: #282350;
@@ -150,11 +151,21 @@ window#waybar.hidden {
 
 #tray menu {
   border-radius: 5px;
+  border: 2px solid @button-border;
+  background: @button-bg;
+  color: @button-text;
 }
 #tray menu menuitem {
+  font-size: 15px;
+  margin-right: 4px;
+  margin-left: 4px;
   border-radius: 5px;
+  background: @button-bg;
+  color: @button-text;
 }
-
+#tray menu menuitem:hover {
+  background: @button-bg-selected;
+}
 
 .bar1 #clock { /*for when centered only, otherwise uncomment line above*/
 /*  border-radius: 0px;*/

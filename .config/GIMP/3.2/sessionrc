@@ -58,7 +58,7 @@
                     (edit-active "true")
                     (current-data "Core Pointer"))))
         (book
-            (position 527)
+            (position 503)
             (current-page 0)
             (dockable "gimp-layer-list"
                 (tab-style icon)
