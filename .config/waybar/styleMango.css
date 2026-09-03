@@ -131,6 +131,7 @@ window#waybar.hidden {
 #bluetooth,
 #cpu,
 #memory,
+#custom-gpu,
 #custom-power,
 #custom-wallpaper,
 #custom-layout,
@@ -146,11 +147,12 @@ window#waybar.hidden {
   background-color: @button-bg;
   color: @button-bg;
   border: 2px solid @button-border;
+  
 }
 
 
 #tray menu {
-  border-radius: 5px;
+  border-radius: 0px;
   border: 2px solid @button-border;
   background: @button-bg;
   color: @button-text;
@@ -201,8 +203,19 @@ font-size: 18px;
  padding-right: 10px;
  }*/
 #memory,
+#custom-gpu,
 #cpu {
   min-width: 50px;
+  margin: 6px 3px;
+  padding: 6px 12px;
+  background-color: @button-bg;
+  color: @button-text;
+  border: 2px solid @button-border;
+  font-family: 'FiraMono Nerd Font Propo';
+}
+
+#custom-gpu {
+  min-width: 75px;
   margin: 6px 3px;
   padding: 6px 12px;
   background-color: @button-bg;
@@ -293,6 +306,7 @@ font-size: 18px;
 #cpu:hover,
 #mpris:hover,
 #memory:hover,
+#custom-gpu:hover,
 #custom-power:hover,
 #custom-wallpaper:hover,
 #custom-layout:hover,

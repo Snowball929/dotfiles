@@ -45,7 +45,7 @@ alias dirfind="fd -H -t d"
 alias textfind="rg"
 
 
-ffmpeg10MB(){ ffmpeg -hide_banner -i $1 -b:v $((75200/$2))k -c:v libsvtav1 $"${1%.*}_shrunk.mp4";}
+ffmpeg10MB(){ ffmpeg -hide_banner -i $1 -b:v $((75200/$2))k -c:v libsvtav1 "${1%.*}_shrunk.mp4";}
 # alias lt='wine ~/.wine/drive_c/users/snow/AppData/Local/Programs/ADI/LTspice/LTspice.exe&'
 alias steg='fortune | cowsay -f stegosaurus'
 # alias refreshtheme='kitten themes --reload-in=all porple'

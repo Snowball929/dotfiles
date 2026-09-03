@@ -3,10 +3,10 @@
 (tool "gimp-paintbrush-tool")
 (paint-info "gimp-paintbrush")
 (foreground
-    (color "R'G'B'A u8" 4 "\306\250\317\377" 0))
+    (color "R'G'B'A u8" 4 "\307\262\231\377" 0))
 (background
     (color "R'G'B'A u8" 4 "\377\377\377\377" 0))
-(brush "1. Pixel")
+(brush "Pixel (1x1 square)")
 (dynamics "Pressure Size")
 (mybrush "Standard")
 (pattern "Marble #1")

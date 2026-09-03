@@ -17,7 +17,7 @@
     (yresolution 600)
     (resolution-unit inches)
     (image-type rgb)
-    (precision u8-non-linear)
+    (precision u32-non-linear)
     (color-profile NULL)
     (simulation-profile NULL)
     (simulation-bpc no)

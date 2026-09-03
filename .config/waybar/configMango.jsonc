@@ -23,8 +23,8 @@
     "modules-right": [
         "mpris",
         "mpris#qt",
-        "pulseaudio",     
-        
+        "pulseaudio",
+        "custom/gpu",
         "cpu",
         "memory",
         //"network",
@@ -111,7 +111,14 @@
         "on-click-right": "kitty --title btop-float -e btop ",
         "tooltip": false
     },
-    
+    "custom/gpu": {
+        "format": "󰾲 {}%",
+        "exec": "nvidia-smi --query-gpu=utilization.gpu --format=csv,noheader,nounits",
+        "tooltip": false,
+        "interval": 5,
+        "on-click": "/home/snow/Documents/scripts/btop2.sh",
+        "on-click-right": "kitty --title btop-float -e btop "
+    },
     "pulseaudio": {
         "format": "{volume} {icon}",
         "format-alt": "{volume} {icon}",
@@ -268,6 +275,7 @@
         "mpris#qt",
         "pulseaudio",     
         
+        "custom/gpu",
         "cpu",
         "memory",
         //"network",
@@ -310,7 +318,10 @@
 	"tray": {
         "spacing": 15,
         "icon-size": 22, //max size
-        "show-passive-items": true 
+        "show-passive-items": true,
+        "icons": {
+        "dev.vencord.Vesktop": "steam" 
+        }
     },
     "clock": {
         "tooltip-format": "<span size='18pt' color='#FFFFFF'><tt><small>{calendar}</small></tt></span>",
@@ -350,7 +361,16 @@
         "on-click-right": "kitty --title btop-float -e btop ",
         "tooltip": false
     },
-    
+    "custom/gpu": {
+        "format": "󰾲 {}%",
+        "exec": "nvidia-smi --query-gpu=utilization.gpu --format=csv,noheader,nounits",
+        "tooltip": false,
+        "interval": 5,
+        "on-click": "/home/snow/Documents/scripts/btop2.sh",
+        "on-click-right": "kitty --title btop-float -e btop "
+
+    },
+
     "pulseaudio": {
         "format": "{volume} {icon}",
         "format-alt": "{volume} {icon}",
