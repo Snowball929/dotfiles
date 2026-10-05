@@ -199,6 +199,13 @@
 	  "tooltip":false,
 	  "on-click":"~/Documents/scripts/opacityswitch.sh"
 	},
+  "custom/crt": {
+	  "format":"󰟴",
+	  "tooltip":false,
+	  "on-click":"~/Documents/scripts/crtSwitch.sh"
+	},
+
+
 	"custom/buffer": {
 	  "format":"E",
 	  "tooltip":false
@@ -212,7 +219,8 @@
 		"modules": [
 			//"custom/opacity",
 			//"custom/layout",
-			"custom/wallpaper"
+			"custom/wallpaper",
+      "custom/crt"
 			//"custom/buffer"
 		]
 	}

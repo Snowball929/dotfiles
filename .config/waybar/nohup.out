@@ -15,3 +15,10 @@
 Fontconfig warning: using without calling FcInit()
 Fontconfig warning: using without calling FcInit()
 Gdk-Message: 18:01:06.879: Error reading events from display: Broken pipe
+[2026-09-30 21:36:06.136] [info] Using configuration file /home/snow/.config/waybar/configMango.jsonc
+[2026-09-30 21:36:06.138] [info] Discovered appearance 'dark'
+[2026-09-30 21:36:06.138] [info] Using CSS file /home/snow/.config/waybar/styleMango.css
+[2026-09-30 21:36:06.501] [info] Bar configured (width: 1264, height: 58) for output: HDMI-A-1
+[2026-09-30 21:36:06.502] [info] Bar configured (width: 2560, height: 60) for output: DP-1
+[2026-09-30 21:36:11.148] [info] Bar configured (width: 1294, height: 58) for output: HDMI-A-1
+[2026-09-30 21:36:19.126] [info] Quitting.

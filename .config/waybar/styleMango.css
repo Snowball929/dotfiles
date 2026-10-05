@@ -135,6 +135,7 @@ window#waybar.hidden {
 #custom-power,
 #custom-wallpaper,
 #custom-layout,
+#custom-crt,
 #custom-opacity,
 #custom-buffer,
 #battery,
@@ -268,6 +269,7 @@ font-size: 18px;
 
 #custom-wallpaper,
 #custom-layout,
+#custom-crt,
 #custom-opacity {
   background-color: @button-bg;
   color: @button-text;
@@ -311,6 +313,7 @@ font-size: 18px;
 #custom-wallpaper:hover,
 #custom-layout:hover,
 #custom-opacity:hover,
+#custom-crt:hover,
 #pulseaudio:hover,
 #clock:hover,
 #network:hover{

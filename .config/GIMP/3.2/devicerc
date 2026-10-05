@@ -3,33 +3,16 @@
 (GimpDeviceInfo "Core Pointer"
     (icon-name "gimp-cursor")
     (name "Core Pointer")
-    (tool-options "GimpPaintOptions"
-        (tool "gimp-paintbrush-tool")
-        (foreground
-            (color "R'G'B'A u8" 4 "\307\262\231\377" 0))
-        (background
-            (color "R'G'B'A u8" 4 "\377\377\377\377" 0))
-        (brush "Pixel (1x1 square)")
-        (dynamics "Pressure Size")
-        (pattern "Marble #1")
-        (gradient "Skyline")
-        (palette "Standard")
-        (brush-size 1)
-        (brush-spacing 0.5)
-        (brush-force 1)
-        (dynamics-enabled no)
-        (fade-length 97)
-        (gradient-blend-color-space cie-lab)
-        (smoothing-quality 100)
-        (smoothing-factor 1000))
-    (use-fg-bg yes)
+    (tool-options "GimpRectangleSelectOptions"
+        (tool "gimp-rect-select-tool"))
+    (use-fg-bg no)
     (use-opacity-paint-mode no)
-    (use-brush yes)
-    (use-dynamics yes)
+    (use-brush no)
+    (use-dynamics no)
     (use-mypaint-brush no)
-    (use-gradient yes)
-    (use-pattern yes)
-    (use-palette yes)
+    (use-gradient no)
+    (use-pattern no)
+    (use-palette no)
     (use-font no)
     (mode screen)
     (axes 2 x y)
@@ -488,7 +471,7 @@
         (foreground
             (color "HSVA float" 16 "\0\0\0\0\0\0\200\77\0\0\200\77\0\0\200\77" 0))
         (background
-            (color "R'G'B'A double" 32 "\0\0\0\340MQ\320\77\0\0\0\100\31\36\314\77\0\0\0\140\75\20\340\77\0\0\0\0\0\0\360\77" 0))
+            (color "R'G'B'A double" 32 "\0\0\0\140UQ\320\77\0\0\0\0\50\36\314\77\0\0\0\140\75\20\340\77\0\0\0\0\0\0\360\77" 0))
         (brush "1. Pixel")
         (dynamics "Pressure Size")
         (pattern "Marble #1")
@@ -529,7 +512,7 @@
         (foreground
             (color "HSVA float" 16 "\0\0\0\0\0\0\200\77\0\0\200\77\0\0\200\77" 0))
         (background
-            (color "R'G'B'A double" 32 "\0\0\0\340MQ\320\77\0\0\0\100\31\36\314\77\0\0\0\140\75\20\340\77\0\0\0\0\0\0\360\77" 0))
+            (color "R'G'B'A double" 32 "\0\0\0\140UQ\320\77\0\0\0\0\50\36\314\77\0\0\0\140\75\20\340\77\0\0\0\0\0\0\360\77" 0))
         (brush "1. Pixel")
         (dynamics "Pressure Size")
         (pattern "Marble #1")
@@ -570,7 +553,7 @@
         (foreground
             (color "HSVA float" 16 "\0\0\0\0\0\0\200\77\0\0\200\77\0\0\200\77" 0))
         (background
-            (color "R'G'B'A double" 32 "\0\0\0\340MQ\320\77\0\0\0\100\31\36\314\77\0\0\0\140\75\20\340\77\0\0\0\0\0\0\360\77" 0))
+            (color "R'G'B'A double" 32 "\0\0\0\140UQ\320\77\0\0\0\0\50\36\314\77\0\0\0\140\75\20\340\77\0\0\0\0\0\0\360\77" 0))
         (brush "1. Pixel")
         (dynamics "Pressure Size")
         (pattern "Marble #1")

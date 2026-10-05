@@ -8,7 +8,7 @@
 
 (language "")
 (prev-language "British English")
-(config-version "3.2.4")
+(config-version "3.2.6")
 (default-image
     (width 2560)
     (height 1440)
@@ -45,8 +45,8 @@
     (show-hsv no))
 (import-raw-plug-in "${gimp_plug_in_dir}/plug-ins/file-raw-placeholder/file-raw-placeholder")
 (debug-policy warning)
-(monitor-xresolution 92)
-(monitor-yresolution 91)
+(monitor-xresolution 107)
+(monitor-yresolution 105)
 (default-view
     (show-menubar yes)
     (show-statusbar yes)
