@@ -72,7 +72,7 @@ alias open='xdg-open'
 alias dot='git --git-dir=$HOME/projects/.dotfiles --work-tree=$HOME'
 dotpush() {
   dot add -u
-  dot commit -m "update $(date +%Y-%m-%d-%H-%M)"
+  dot commit -m "update $(date +%d-%m-%Y-%H:%M)"
   dot push
 }
 bindkey "^[[F" end-of-line
