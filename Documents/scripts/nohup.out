@@ -719,3 +719,174 @@ Terminated                 nohup waybar -c ~/.config/waybar/configMango.jsonc -s
 [2026-09-30 23:42:52.061] [warning] mpris[firefox]: ignoring player update
 Gdk-Message: 23:50:31.017: Error reading events from display: Broken pipe
 recv: Connection reset by peer
+[2026-10-21 23:03:13.977] [info] Using configuration file /home/snow/.config/waybar/styleMango.css
+[2026-10-21 23:03:13.977] [error] Error parsing JSON: * Line 1, Column 1
+  Syntax error: value, object or array expected.
+
+[2026-10-21 23:03:58.365] [info] Using configuration file /home/snow/.config/waybar/configMango.jsonc
+[2026-10-21 23:03:58.367] [info] Discovered appearance 'dark'
+[2026-10-21 23:03:58.367] [info] Using CSS file /home/snow/.config/waybar/styleMango.css
+[2026-10-21 23:03:58.613] [info] Bar configured (width: 1920, height: 58) for output: HDMI-A-1
+[2026-10-21 23:03:58.613] [info] Bar configured (width: 2560, height: 60) for output: DP-1
+[2026-10-21 23:05:51.652] [info] Quitting.
+[2026-10-21 23:05:52.288] [info] Using configuration file /home/snow/.config/waybar/configMango.jsonc
+[2026-10-21 23:05:52.290] [info] Discovered appearance 'dark'
+[2026-10-21 23:05:52.290] [info] Using CSS file /home/snow/.config/waybar/styleMango.css
+[2026-10-21 23:05:52.535] [info] Bar configured (width: 1920, height: 58) for output: HDMI-A-1
+[2026-10-21 23:05:52.535] [info] Bar configured (width: 2560, height: 60) for output: DP-1
+[2026-10-21 23:05:58.148] [info] Quitting.
+[2026-10-21 23:05:58.734] [info] Using configuration file /home/snow/.config/waybar/configMango.jsonc
+[2026-10-21 23:05:58.735] [info] Discovered appearance 'dark'
+[2026-10-21 23:05:58.735] [info] Using CSS file /home/snow/.config/waybar/styleMango.css
+[2026-10-21 23:05:58.981] [info] Bar configured (width: 1920, height: 58) for output: HDMI-A-1
+[2026-10-21 23:05:58.981] [info] Bar configured (width: 2560, height: 60) for output: DP-1
+[2026-10-21 23:06:06.753] [info] Quitting.
+[2026-10-21 23:06:07.595] [info] Using configuration file /home/snow/.config/waybar/configMango.jsonc
+[2026-10-21 23:06:07.596] [info] Discovered appearance 'dark'
+[2026-10-21 23:06:07.596] [info] Using CSS file /home/snow/.config/waybar/styleMango.css
+[2026-10-21 23:06:07.842] [info] Bar configured (width: 1920, height: 58) for output: HDMI-A-1
+[2026-10-21 23:06:07.842] [info] Bar configured (width: 2560, height: 60) for output: DP-1
+[2026-10-21 23:07:26.863] [info] Quitting.
+[2026-10-21 23:07:27.721] [info] Using configuration file /home/snow/.config/waybar/configMango.jsonc
+[2026-10-21 23:07:27.722] [info] Discovered appearance 'dark'
+[2026-10-21 23:07:27.722] [info] Using CSS file /home/snow/.config/waybar/styleMango.css
+[2026-10-21 23:07:27.967] [info] Bar configured (width: 1920, height: 58) for output: HDMI-A-1
+[2026-10-21 23:07:27.967] [info] Bar configured (width: 2560, height: 60) for output: DP-1
+[0.029] Ignoring invalid config line: 'vim:ft=kitty'
+[0.028] Ignoring invalid config line: 'vim:ft=kitty'
+[0.028] Ignoring invalid config line: 'vim:ft=kitty'
+[0.028] Ignoring invalid config line: 'vim:ft=kitty'
+[2026-10-21 23:16:10.116] [info] Quitting.
+[2026-10-21 23:16:10.898] [info] Using configuration file /home/snow/.config/waybar/configMango.jsonc
+[2026-10-21 23:16:10.899] [error] Error parsing JSON: * Line 111, Column 9
+  Missing ',' or '}' in object declaration
+
+[2026-10-21 23:16:15.457] [info] Using configuration file /home/snow/.config/waybar/configMango.jsonc
+[2026-10-21 23:16:15.457] [error] Error parsing JSON: * Line 111, Column 9
+  Missing ',' or '}' in object declaration
+
+[2026-10-21 23:16:23.897] [info] Using configuration file /home/snow/.config/waybar/configMango.jsonc
+[2026-10-21 23:16:23.898] [info] Discovered appearance 'dark'
+[2026-10-21 23:16:23.898] [info] Using CSS file /home/snow/.config/waybar/styleMango.css
+[2026-10-21 23:16:24.144] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:16:24.146] [info] Bar configured (width: 1920, height: 58) for output: HDMI-A-1
+[2026-10-21 23:16:24.146] [info] Bar configured (width: 2560, height: 60) for output: DP-1
+[2026-10-21 23:16:33.915] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:16:43.915] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:16:53.915] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:17:03.915] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:17:13.916] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:17:23.916] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:17:33.916] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:17:43.916] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:17:53.916] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:18:03.916] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:18:13.916] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:18:23.916] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:18:33.916] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:18:43.916] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:18:53.916] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:19:03.916] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:19:13.916] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:19:23.916] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:19:33.916] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:19:43.916] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:19:53.916] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:20:03.917] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:20:13.917] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:20:23.917] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:20:33.917] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:20:43.917] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:20:53.917] [error] cpu: cannot switch from manual to automatic argument indexing
+[0.028] Ignoring invalid config line: 'vim:ft=kitty'
+[0.030] Ignoring invalid config line: 'vim:ft=kitty'
+[2026-10-21 23:21:03.917] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:21:13.917] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:21:23.917] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:21:33.917] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:21:43.917] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:21:53.917] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:22:03.917] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:22:13.917] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:22:23.917] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:22:33.917] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:22:43.918] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:22:53.918] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:23:03.918] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:23:13.918] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:23:23.918] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:23:33.918] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:23:43.918] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:23:53.918] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:24:03.918] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:24:13.918] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:24:23.918] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:24:33.918] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:24:43.918] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:24:53.918] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:25:03.918] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:25:13.918] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:25:23.919] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:25:33.918] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:25:43.919] [error] cpu: cannot switch from manual to automatic argument indexing
+[0.028] Ignoring invalid config line: 'vim:ft=kitty'
+[2026-10-21 23:25:53.919] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:26:03.919] [error] cpu: cannot switch from manual to automatic argument indexing
+[2026-10-21 23:26:10.068] [info] Quitting.
+[2026-10-21 23:26:45.479] [info] Using configuration file /home/snow/.config/waybar/configMango.jsonc
+[2026-10-21 23:26:45.480] [info] Discovered appearance 'dark'
+[2026-10-21 23:26:45.480] [info] Using CSS file /home/snow/.config/waybar/styleMango.css
+[2026-10-21 23:26:45.726] [info] Bar configured (width: 1920, height: 58) for output: HDMI-A-1
+[2026-10-21 23:26:45.726] [info] Bar configured (width: 2560, height: 60) for output: DP-1
+[2026-10-21 23:27:47.127] [info] Quitting.
+[2026-10-21 23:27:47.750] [info] Using configuration file /home/snow/.config/waybar/configMango.jsonc
+[2026-10-21 23:27:47.751] [info] Discovered appearance 'dark'
+[2026-10-21 23:27:47.751] [info] Using CSS file /home/snow/.config/waybar/styleMango.css
+[2026-10-21 23:27:47.898] [info] Bar configured (width: 1920, height: 58) for output: HDMI-A-1
+[2026-10-21 23:27:47.898] [info] Bar configured (width: 2560, height: 60) for output: DP-1
+[0.029] Ignoring invalid config line: 'vim:ft=kitty'
+[0.028] Ignoring invalid config line: 'vim:ft=kitty'
+[2026-10-21 23:43:57.173] [info] Quitting.
+[2026-10-21 23:43:57.678] [info] Using configuration file /home/snow/.config/waybar/configMango.jsonc
+[2026-10-21 23:43:57.679] [info] Discovered appearance 'dark'
+[2026-10-21 23:43:57.679] [info] Using CSS file /home/snow/.config/waybar/styleMango.css
+[2026-10-21 23:43:57.809] [info] Bar configured (width: 1920, height: 58) for output: HDMI-A-1
+[2026-10-21 23:43:57.809] [error] Item '': No icon name or pixmap given.
+[2026-10-21 23:43:57.894] [info] Bar configured (width: 2560, height: 60) for output: DP-1
+[2026-10-21 23:43:57.894] [error] Item '': No icon name or pixmap given.
+[0.028] Ignoring invalid config line: 'vim:ft=kitty'
+[0.028] Ignoring invalid config line: 'vim:ft=kitty'
+[0.029] Ignoring invalid config line: 'vim:ft=kitty'
+[2026-10-21 23:51:58.198] [info] Quitting.
+[2026-10-21 23:51:59.311] [info] Using configuration file /home/snow/.config/waybar/configMango.jsonc
+[2026-10-21 23:51:59.312] [info] Discovered appearance 'dark'
+[2026-10-21 23:51:59.312] [info] Using CSS file /home/snow/.config/waybar/styleMango.css
+[2026-10-21 23:51:59.343] [info] Bar configured (width: 1920, height: 58) for output: HDMI-A-1
+[2026-10-21 23:51:59.343] [error] Item '': No icon name or pixmap given.
+[2026-10-21 23:51:59.428] [info] Bar configured (width: 2560, height: 60) for output: DP-1
+[2026-10-21 23:51:59.428] [error] Item '': No icon name or pixmap given.
+[2026-10-21 23:52:28.937] [info] Quitting.
+[2026-10-21 23:52:29.481] [info] Using configuration file /home/snow/.config/waybar/configMango.jsonc
+[2026-10-21 23:52:29.482] [info] Discovered appearance 'dark'
+[2026-10-21 23:52:29.482] [info] Using CSS file /home/snow/.config/waybar/styleMango.css
+[2026-10-21 23:52:29.512] [info] Bar configured (width: 1920, height: 58) for output: HDMI-A-1
+[2026-10-21 23:52:29.512] [error] Item '': No icon name or pixmap given.
+[2026-10-21 23:52:29.596] [info] Bar configured (width: 2560, height: 60) for output: DP-1
+[2026-10-21 23:52:29.596] [error] Item '': No icon name or pixmap given.
+[2026-10-21 23:53:25.904] [info] Quitting.
+[2026-10-21 23:53:26.398] [info] Using configuration file /home/snow/.config/waybar/configMango.jsonc
+[2026-10-21 23:53:26.399] [info] Discovered appearance 'dark'
+[2026-10-21 23:53:26.399] [info] Using CSS file /home/snow/.config/waybar/styleMango.css
+[2026-10-21 23:53:26.405] [warning] There is no configuration for 'custom/cpu', element will be hidden
+[2026-10-21 23:53:26.429] [info] Bar configured (width: 1920, height: 58) for output: HDMI-A-1
+[2026-10-21 23:53:26.429] [error] Item '': No icon name or pixmap given.
+[2026-10-21 23:53:26.514] [info] Bar configured (width: 2560, height: 60) for output: DP-1
+[2026-10-21 23:53:26.514] [error] Item '': No icon name or pixmap given.
+[2026-10-21 23:53:49.073] [info] Quitting.
+[2026-10-21 23:53:49.906] [info] Using configuration file /home/snow/.config/waybar/configMango.jsonc
+[2026-10-21 23:53:49.907] [info] Discovered appearance 'dark'
+[2026-10-21 23:53:49.907] [info] Using CSS file /home/snow/.config/waybar/styleMango.css
+[2026-10-21 23:53:49.937] [info] Bar configured (width: 1920, height: 58) for output: HDMI-A-1
+[2026-10-21 23:53:49.937] [error] Item '': No icon name or pixmap given.
+[2026-10-21 23:53:50.023] [info] Bar configured (width: 2560, height: 60) for output: DP-1
+[2026-10-21 23:53:50.023] [error] Item '': No icon name or pixmap given.

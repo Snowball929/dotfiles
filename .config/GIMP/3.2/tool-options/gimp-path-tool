@@ -1,10 +1,10 @@
 # GIMP gimp-path-tool options
 
 (foreground
-    (color "R'G'B'A u8" 4 "\345\300\265\377" 0))
+    (color "R'G'B'A u8" 4 "\306\250\317\377" 0))
 (background
-    (color "HSVA float" 16 "\232\364\71\77\203\243\354\75\236\73\375\75\0\0\200\77" 0))
-(brush "1. Pixel")
+    (color "R'G'B'A u8" 4 "hMz\377" 0))
+(brush "2. Hardness 100")
 (dynamics "Pressure Size")
 (pattern "Marble #1")
 (gradient "Skyline")

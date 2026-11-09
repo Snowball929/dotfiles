@@ -649,7 +649,7 @@
   <resource identifier="external:${gimp_data_dir}/gradients/Yellow_Orange.ggr//Yellow Orange" checksum="c7f332150f1c1d8cb8100add34b0ef55">
   </resource>
 
-  <resource identifier="internal:gimp-palette-color-history//Colour History" checksum="13646d26b3b2e7bf210374ee259eddef">
+  <resource identifier="internal:gimp-palette-color-history//Colour History" checksum="5775cdbab971aa82d9f15f74c4f6e8ae">
   </resource>
 
   <resource identifier="external:${gimp_data_dir}/palettes/Bears.gpl//Bears" checksum="4c2126ed67c4dfaf3316678e9f03eed9">

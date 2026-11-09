@@ -11,8 +11,6 @@ export GREP_COLORS='mt=95'
 export FZF_CTRL_R_OPTS="--layout=reverse --color=fg:8,fg+:12,hl:2,hl+:10,gutter:8,info:8,pointer:12,bg+:-1 --border=rounded --height=40%"
 export FZF_CTRL_T_OPTS="--layout=reverse --color=fg:8,fg+:12,hl:2,hl+:10,gutter:8,info:8,pointer:12,bg+:-1 --border=rounded --height=40% --preview 'bat --style=numbers --color=always {}'"
 setopt GLOB_DOTS
-nvidia-smi
-clear
 #fastfetch
 ~/scripts/pokefetch.sh
 

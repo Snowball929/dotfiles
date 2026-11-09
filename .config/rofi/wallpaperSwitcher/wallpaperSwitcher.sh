@@ -37,7 +37,7 @@ confirm_cmd() {
 
 # Ask for confirmation
 monitor_select() {
-  echo -e "HDMI-A-1\nDP-1\nCRT" | confirm_cmd
+  echo -e "HDMI-A-1\nDP-1\nHDMI-A-2" | confirm_cmd
 }
 
 # Pass variables to rofi dmenu

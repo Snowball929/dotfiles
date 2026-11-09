@@ -16,7 +16,12 @@
   font-family: 'FiraMono Nerd Font Propo';;
   font-size: 18px;
 }
-
+.bar3 {
+  border-radius: 0px;
+  font-family: 'FiraMono Nerd Font Propo';;
+  font-size: 20px;
+/*   font-weight: bold; */
+}
 window#waybar {
   /*for when using no box */
   background-color: rgba(0,0,0,0.4);
@@ -49,6 +54,14 @@ window#waybar.hidden {
   padding: 0px;
 }
 
+#waybar.bar3 > box {
+/*   background-color: rgba(0,0,0,0.55); */
+  border-radius: 0px;
+/*   border-bottom: 4px solid @button-border; */
+  padding-left: 40px;
+  padding-right: 50px;
+  padding-top:20px;
+}
 /*
  * #####################################################################################
  * #####################################################################################
@@ -81,6 +94,20 @@ window#waybar.hidden {
   transition: all 0.2s cubic-bezier(0.55, -0.68, 0.48, 1.682);
 }
 .bar2 #workspaces button {
+  /*all: initial;*/
+  font-family: 'FiraMono Nerd Font Mono';
+  font-size: 18px;
+/*   font-weight: bold; */
+  min-width: 35px;
+  padding: 0px 0px;
+  margin: 0px 0px;
+  border: 2px solid @button-bg;
+  background-color: @button-bg;
+  color: @button-text;
+  transition: all 0.2s cubic-bezier(0.55, -0.68, 0.48, 1.682);
+}
+
+.bar3 #workspaces button {
   /*all: initial;*/
   font-family: 'FiraMono Nerd Font Mono';
   font-size: 18px;
@@ -132,6 +159,7 @@ window#waybar.hidden {
 #cpu,
 #memory,
 #custom-gpu,
+#custom-cpu,
 #custom-power,
 #custom-wallpaper,
 #custom-layout,
@@ -205,6 +233,7 @@ font-size: 18px;
  }*/
 #memory,
 #custom-gpu,
+#custom-cpu,
 #cpu {
   min-width: 50px;
   margin: 6px 3px;
@@ -213,6 +242,18 @@ font-size: 18px;
   color: @button-text;
   border: 2px solid @button-border;
   font-family: 'FiraMono Nerd Font Propo';
+}
+
+#custom-cpu {
+
+  padding-left: 25px;
+  padding-right: 25px;
+
+}
+
+.bar2 #custom-gpu {
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 #custom-gpu {
@@ -309,6 +350,7 @@ font-size: 18px;
 #mpris:hover,
 #memory:hover,
 #custom-gpu:hover,
+#custom-cpu:hover,
 #custom-power:hover,
 #custom-wallpaper:hover,
 #custom-layout:hover,
